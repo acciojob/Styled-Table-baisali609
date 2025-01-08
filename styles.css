@@ -1,1 +1,13 @@
 /* your code */
+table{
+	border:1px solid black;
+	
+}
+.blue{
+	background-color:blue;
+}
+
+.grey{
+	background-color:grey;
+}
+
